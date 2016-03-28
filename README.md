@@ -1,2 +1,1 @@
-# u-dnq
-μniversal Dot-notation Query Parser
+# μniversal Dot-notation Query Parser
